@@ -149,7 +149,6 @@ Let users pick which AI models participate in debates.
 
 ---
 
-
 ## **License**
 This project is licensed under the MIT License. See `LICENSE` for more details.
 
