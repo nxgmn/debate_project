@@ -54,7 +54,7 @@ This project is a multi-model debate application designed to showcase familiarit
 
 4. Run the application:
    ```bash
-   python main.py --topic "Your debate topic here"
+   python main.py "Your debate topic here"
    ```
 
 ---
@@ -149,20 +149,6 @@ Let users pick which AI models participate in debates.
 
 ---
 
-## **Contributing**
-Contributions are welcome! To get started:
-1. Fork this repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push:
-   ```bash
-   git push origin feature-name
-   ```
-4. Submit a pull request.
-
----
 
 ## **License**
 This project is licensed under the MIT License. See `LICENSE` for more details.
