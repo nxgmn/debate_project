@@ -1,0 +1,25 @@
+{
+  "name": "debate_project",
+  "version": "1.0.0",
+  "description": "This project is a multi-model debate application designed to showcase familiarity with LangChain and LLMs (Large Language Models). Users can input a debate topic, and different AI models argue for or against it. Additionally, users can adjust debate settings, customize the behavior of each participating model, and even judge debates themselves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxgmn/debate_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxgmn/debate_project/issues"
+  },
+  "homepage": "https://github.com/nxgmn/debate_project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
